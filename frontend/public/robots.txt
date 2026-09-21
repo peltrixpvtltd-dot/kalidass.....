@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gourmet-confection.preview.emergentagent.com/sitemap.xml
